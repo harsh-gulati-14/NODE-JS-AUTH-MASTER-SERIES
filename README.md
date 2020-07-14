@@ -16,7 +16,7 @@ Lvl 5. Cookies and Session
 
 Lvl 6. Oauth
 
-# REFER THIS To leran more
+# REFER THIS To Learn More
 
 [MEDIUM](https://medium.com/@harshgulati1409/node-js-authentication-master-series-using-mongodb-b18d4678b6bd)
 
