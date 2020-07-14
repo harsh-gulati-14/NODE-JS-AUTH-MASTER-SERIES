@@ -1,4 +1,4 @@
-# NODE-JS-AUTH-SERIES
+# NODE-JS-AUTH-MASTER-SERIES
 Hey There 
 When it comes to the world of Web and Android Development.The main keyword you might have heard of is ‘Authorisation’ and ‘Authentication’.
 
