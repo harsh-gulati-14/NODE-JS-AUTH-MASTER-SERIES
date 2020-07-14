@@ -1,4 +1,4 @@
-# NODE-JS-AUTH-MASTER-SERIES
+# NODE-JS Authentication Master Series using MongoDB.
 Hey There 
 When it comes to the world of Web and Android Development.The main keyword you might have heard of is ‘Authorisation’ and ‘Authentication’.
 
